@@ -1,0 +1,4 @@
+provider: github
+owner: Hiro527
+repo: ez-caster
+updaterCacheDirName: EZ-Caster

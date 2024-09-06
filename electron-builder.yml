@@ -1,0 +1,7 @@
+appId: 'com.hiro527.ezcaster'
+productName: 'EZ-Caster'
+nsis:
+    artifactName: EZ-Caster_Setup.${arch}.${ext}
+    oneClick: false
+    perMachine: false
+    allowToChangeInstallationDirectory: true
